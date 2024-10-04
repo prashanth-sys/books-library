@@ -1,0 +1,19 @@
+.about-us-container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+} 
+.about-us-heading{
+    color: #12022f;
+    font-size: 36px; 
+    text-align: center; 
+    font-size: 25px; 
+    margin-top: 5%;
+}
+.about-us-description{
+    text-align: center;
+    color: #551e53; 
+    font-size: 17px; 
+    margin-left: 55px;
+    margin-right: 55px;
+}
